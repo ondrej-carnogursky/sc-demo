@@ -13,7 +13,10 @@
     "service-worker.js": "/sc-demo/service-worker.js",
     "static/css/2.da92d59b.chunk.css.map": "/sc-demo/static/css/2.da92d59b.chunk.css.map",
     "static/css/main.b9364cda.chunk.css.map": "/sc-demo/static/css/main.b9364cda.chunk.css.map",
-    "static/js/2.def29be7.chunk.js.LICENSE.txt": "/sc-demo/static/js/2.def29be7.chunk.js.LICENSE.txt"
+    "static/js/2.def29be7.chunk.js.LICENSE.txt": "/sc-demo/static/js/2.def29be7.chunk.js.LICENSE.txt",
+    "images/shape_sticker.svg": "/sc-demo/images/shape_sticker.svg",
+    "images/logo.png": "/sc-demo/images/logo.png",
+    "images/mini-cart.png": "/sc-demo/images/mini-cart.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb4c88b0.js",
