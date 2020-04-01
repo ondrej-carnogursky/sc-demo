@@ -1,2 +1,0 @@
-# sc-demo
-sc-demo
