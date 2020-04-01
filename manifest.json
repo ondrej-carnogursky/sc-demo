@@ -1,0 +1,25 @@
+{
+  "short_name": "SC Demo",
+  "name": "Similarity Carousel Demo",
+  "icons": [
+    {
+      "src": "predictale.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/ico"
+    },
+    {
+      "src": "predictale.ico",
+      "type": "image/ico",
+      "sizes": "192x192"
+    },
+    {
+      "src": "predictale.ico",
+      "type": "image/ico",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
